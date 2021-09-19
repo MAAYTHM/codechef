@@ -1,2 +1,2 @@
 # codechef
-Codechef coeds
+Codechef codes
